@@ -14,15 +14,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
+The aim of post-installation configuration is to ensure the osTicket system is properly set up for effective ticket management. Listed below are some important post-installation configuration objectives for osTicket.
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. Create user accounts for users and assign them appropriate roles and permissions.
+2. Adapt ticket forms, fields, and statuses to the organization's ticketing workflow.
+3. Configure ticket properties, priority levels, etc. as necessary.
+4. Integrate osTicket with other systems or tools and automate actions, such as automatic ticket assignment within osTicket.
+5. Define user roles and permissions for the purposes of access control and security.
 
 <h2>Configuration Steps</h2>
 
